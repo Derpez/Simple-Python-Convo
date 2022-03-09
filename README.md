@@ -1,2 +1,4 @@
 # Simple-Python-Convo
-Simple Python Conversation Response App Thing.
+
+# Run
+cmd in file location > python main.py > Enter
